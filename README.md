@@ -4,7 +4,7 @@
 
 By injecting js scripts into the browser OpenAI ChatGPT page, ChatGPT on the web page is turned into an API that supports multiple simultaneous connections
 
-**How to use**: [How to use?](wiki/how-to-use.md)
+**How to use**: [How to use?](wiki/如何使用.md)
 
 **Recommended Magic Network**: [click this link to have a monthly $1 discount package](https://xx025.github.io/773ycd9u.html)
 
